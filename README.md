@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Fabio Nandes 🇧🇷
-I'm A Systems developtment student, looking for the first job in the TI field.
+I'm A Systems developtment student, looking for the first job in the IT field.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
