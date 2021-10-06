@@ -9,7 +9,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 - 📍 From SC living in Blumenau
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning Java
 
 
 - 📫 How to reach me: 
