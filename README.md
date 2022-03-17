@@ -1,15 +1,14 @@
 # Hello there 👋
 
 My name is Fabio Nandes 🇧🇷
-I'm A Systems developtment student, looking for the first job in the IT field.
+I'm a front-end developtment student.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-### 🌍 "Jamais on ne me dira que la course aux étoiles, ça n'est pas por moi..." 🧠
+I'm passionate about solving problems, learning and create interfaces.
+Always open to new challenges and ready to face changes.
 
 
 - 📍 From SC living in Blumenau
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML, CSS and Javascript
 
 
 - 📫 How to reach me: 
