@@ -23,8 +23,8 @@ Always open to new challenges and ready to face changes.
   <img align="center" alt="fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fabio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-
-
+<br>
+  
 - 📫 How to reach me: 
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-nandes-358117136/)](https://www.linkedin.com/in/fabio-nandes-358117136/)
