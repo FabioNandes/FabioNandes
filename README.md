@@ -7,8 +7,8 @@ I'm passionate about solving problems, learning and create interfaces.
 Always open to new challenges and ready to face changes.
 
 
-- 📍 From SC living in Blumenau
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📍 From RJ living in Blumenau
+- 🌱 I’m currently learning HTML, CSS and Javascript.
 
 
 <div>
