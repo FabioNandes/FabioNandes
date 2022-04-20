@@ -30,9 +30,9 @@ I'm passionate about solving problems, learning and create interfaces. Always op
 ### Badges
 
 <div>
-<a href="http://www.github.com/FabioNandes">
+<a align="top" href="http://www.github.com/FabioNandes">
 <img src="https://github-readme-stats.vercel.app/api?username=FabioNandes&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FabioNandes's GitHub stats" />
 
-<img align="top" height="170px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNandes&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img align="top" height="170px" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNandes&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 </div>
